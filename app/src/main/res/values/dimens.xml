@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_smaller">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_big">16sp</dimen>
+    <dimen name="text_size_bigger">18sp</dimen>
+    <dimen name="text_size_biggest">20sp</dimen>
+    <dimen name="text_size_extra">25sp</dimen>
+
+    <dimen name="margin_small">2dp</dimen>
+    <dimen name="margin_normal">5dp</dimen>
+    <dimen name="margin_big">8dp</dimen>
+    <dimen name="margin_bigger">10dp</dimen>
+    <dimen name="margin_biggest">15dp</dimen>
+    <dimen name="margin_extra">20dp</dimen>
+
+    <dimen name="space10">10sp</dimen>
+    <dimen name="space20">20sp</dimen>
+    <dimen name="space30">30sp</dimen>
+    <dimen name="space40">40sp</dimen>
+    <dimen name="space50">50sp</dimen>
+    <dimen name="space80">80sp</dimen>
+
+    <dimen name="width1_button">120dp</dimen>
+    <dimen name="width2_button">150dp</dimen>
+    <dimen name="height1_button">30dp</dimen>
+    <dimen name="height2_button">50dp</dimen>
+
+    <dimen name="line">1dp</dimen>
+    <dimen name="corners_small">2dp</dimen>
+    <dimen name="corners_normal">4dp</dimen>
+    <dimen name="corners_big">6dp</dimen>
+    <dimen name="width_edge_small">2dp</dimen>
+    <dimen name="width_edge_normal">4dp</dimen>
+    <dimen name="width_edge_big">6dp</dimen>
+
+
+</resources>

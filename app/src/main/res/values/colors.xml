@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#536DFE</color>
+    <color name="bgButton">#3668B1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_dark">#AAAAAA</color>
+    <color name="window_background">#F5F5F5</color>
+
+
+    <color name="InverseTextColor">#FFFFFFFF</color>
+    <color name="darkSlateGray1">#79CDCD</color>
+    <color name="darkSlateGray2">#2F4F4F</color>
+    <color name="gray81">#CFCFCF</color>
+    <color name="yellow">#FFFF33</color>
+    <color name="green">#669900</color>
+    <color name="red">#FF0000</color>
+    <color name="red_transparent">#96FF0000</color>
+    <color name="blue">#0000AA</color>
+    <color name="sandyBrown0">#FFCC66</color>
+    <color name="sandyBrown0_transparent">#96FFCC66</color>
+    <color name="sandyBrown1">#F4A460</color>
+    <color name="sandyBrown1_transparent">#96F4A460</color>
+    <color name="sandyBrown2">#A0522D</color>
+    <color name="sandyBrown2_transparent">#96A0522D</color>
+    <color name="transparent1">#00000000</color>
+    <color name="pink">#CC0033</color>
+
+    <!--anim color-->
+    <color name="Wheat">#5dff40</color>
+    <color name="back">#c10f97</color>
+    <color name="Wheat2">#ffcc40</color>
+    <color name="back2">#075056</color>
+    <color name="aa">#0cfac0</color>
+</resources>
