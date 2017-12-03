@@ -12,7 +12,7 @@ public class MainActivity extends GeneralActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setTitleToolbar("Main");
-        changeFragment(FirstFragment.newInstance(),true);
+
     }
 
     @Override
